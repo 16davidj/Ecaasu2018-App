@@ -1,0 +1,145 @@
+{
+  "key": 2000,
+  "title":"CAUCUS: First-generation, low-income",
+  "location": "Rockefeller Hall 102",
+  "description": "For those who are the first in their families to attend college/university, and for those who are low-income. (Please do not attend if you are an ally/advocate.)",
+  "timeSlot": 10,
+  "speaker": "Shelley Shin, Ada Zhang"
+}, 
+{
+  "key": 2001,
+  "title":"CAUCUS: Asian American Studies",
+  "location":"Goldwin Smith Hall G76",
+  "description":"For those who are interested in, studying, or are advocating for Asian American Studies at their home institutions.",
+  "timeSlot": 10,
+  "speaker": "Sabrina Cheung, Olivia Zheng"
+},
+{
+  "key": 2002,
+  "title":"CAUCUS: LGBTQIA+",
+  "location":"Goldwin Smith Hall G64",
+  "description":"For those who identify as LGBTQIA+, queer, genderqueer/gender nonconforming, or trans. (Please do not attend if you are an ally/advocate.)",
+  "timeSlot": 10,
+  "speaker": "CHelsey Gao, David Choi"
+},
+{
+  "key": 2003,
+  "title":"CAUCUS: Adoptee",
+  "location":"Goldwin Smith Hall 181",
+  "description":"For those who identify as an adoptee. (Please do not attend if you are an ally/advocate)",
+  "timeSlot": 10,
+  "speaker": "Lindsay Slater, Katie Nolan"
+},
+{
+  "key": 2004,
+  "title":"CAUCUS: Journalism, Media, Arts, Humanities",
+  "location":"Goldwin Smith Hall 132",
+  "description":"For those who are interested in these topics, and for those who are involved in campus endeavors that provide social commentary. ",
+  "timeSlot": 10,
+  "speaker": "Kate Pangilinan, Hannah Song"
+}, 
+{
+  "key": 2005,
+  "title":"CAUCUS: South Asian, Desi",
+  "location":"Rockefeller Hall 122",
+  "description":"For those who identify as South Asian, South Asian-American, or Desi. (Please do not attend if you are an ally/advocate.)",
+  "timeSlot": 10,
+  "speaker": "Shivani Parikh, Aishika Jennela "
+}, 
+{
+  "key": 2006,
+  "title":"CAUCUS: Southeast Asian",
+  "location":"Rockefeller Hall 115",
+  "description":"For those who identify as Southeast Asian.",
+  "timeSlot": 10,
+  "speaker": "Tony Tran, Huy Tu"
+},
+{
+  "key": 2007,
+  "title":"CAUCUS: Native Hawaiian, Pacific Islander",
+  "location":"Goldwin Smith Hall 162",
+  "description":"For those who identify as Native Hawaiian or Pacific Islander. (Please do not attend if you are an ally/advocate.)",
+  "timeSlot": 10,
+  "speaker": "Ana Bordallo "
+},
+{
+  "key": 2008,
+  "title":"CAUCUS: Coalition Building",
+  "location":"Rockefeller Hall 231",
+  "description":"For those who are interested in or are currently building multi-racial, multi-ethnic, and/or intersectional movements on their campuses.",
+  "timeSlot": 10,
+  "speaker": "Leangelo Acuna, Andrea Namkung"
+},
+{
+  "key": 2009,
+  "title":"CAUCUS: Mixed Race",
+  "location":"Rockefeller Hall 104",
+  "description":"For those who identify as mixed or mixed race.",
+  "timeSlot": 10,
+  "speaker": "Nicholas Hatcher, Maria Pitt"
+},
+{
+  "key": 2010,
+  "title":"CAUCUS: Mental Health ",
+  "location":"Goldwin Smith Hall 142",
+  "description":"For those who are hurting, healing, or want to support those who are hurting and healing. (Allies and advocates are welcome. You will not be asked to disclose any information about your mental health.)",
+  "timeSlot": 10,
+  "speaker": "NAAPIMHA, Helen Yang"
+},
+{
+  "key": 2011,
+  "title":"CAUCUS: AAPI Student Organization Caucus ",
+  "location":"Rockefeller Hall 132",
+  "description":"For those who are the presidents or serve on leadership of Asian American/AAPI/Umbrella student organizations at their home institutions. ",
+  "timeSlot": 10,
+  "speaker": "Christine Lee, Kevin Koo"
+},
+{
+  "key": 2012,
+  "title":"CAUCUS: Immigrants",
+  "location":"Rockefeller Hall 230",
+  "description":"For those who identify as immigrants. (Please do not attend if you are an ally/advocate. You will not be asked to disclose any information about your immigration status.)",
+  "timeSlot": 10,
+  "speaker": "Raymond Partolan"
+},
+{
+  "key": 2013,
+  "title":"CAUCUS: Health Care Caucus ",
+  "location":"Rockefeller Hall 105",
+  "description":"For those who are affected by or interested in reproductive health and women’s rights.",
+  "timeSlot": 10,
+  "speaker": "Planned Parenthood Generation Action"
+},
+{
+  "key": 2014,
+  "title":"CAUCUS: Open Spaces",
+  "location":"Goldwin Smith Hall 156, Rockefeller Hall 103, 110, 112",
+  "description":"Open rooms for folks to create their own spaces as desired. (Needs to be some sort of infrastructure to publicize these spaces.)",
+  "timeSlot": 10,
+  "speaker": ""
+},
+{
+  "key": 2015,
+  "title":"ALternative: Breakfree Workshop",
+  "location":"Physical Sciences Building Atrium",
+  "description":"Dance workshop hosted by Cornell’s Breakfree hip-hop crew.",
+  "timeSlot": 10,
+  "speaker": "Alina Kim "
+},
+{
+  "key": 2016,
+  "title":"Alternative: Games Room",
+  "location":"Goldwin Smith Hall 144",
+  "description":"",
+  "timeSlot": 10,
+  "speaker": ""
+},
+{
+  "key": 2017,
+  "title":"Alternative: Coloring Room",
+  "location":"Goldwin Smith Hall 164",
+  "description":"",
+  "timeSlot": 10,
+  "speaker": ""
+}
+]

@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "ECAASU 2018",
+    "slug": "ecaasu-2018",
+    "sdkVersion": "22.0.0",
+    "privacy": "public",
+    "version": "1.0.0",
+    "icon": "./assets/sticker_1024.png",
+    "orientation": "portrait",
+    "description": "See what's available for you to attend at ECAASU 2018! Favorite interesting workshops and caucuses and add them to your schedule!",
+    "android": {
+      "package": "org.ecaasu2018.app",
+    }
+  }
+}
