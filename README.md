@@ -2,7 +2,7 @@
 
 QR code for Expo app: https://expo.io/@dfz8/ecaasu-2018  
 
-This application was created for Cornell's 2018 ECAASU Conference, providing information on
+This application was created for Cornell's 2018 ECAASU Conference by David Jin and David Zhao, providing information on
 logistics, schedules, events, and notifications.  
 
 ![](event.PNG) <img style="width: 100px;"/>
