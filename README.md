@@ -1,4 +1,4 @@
-#ECAASU App  
+# ECAASU App  
 
 QR code for Expo app: https://expo.io/@dfz8/ecaasu-2018  
 
