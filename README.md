@@ -5,11 +5,11 @@ QR code for Expo app: https://expo.io/@dfz8/ecaasu-2018
 This application was created for Cornell's 2018 ECAASU Conference, providing information on
 logistics, schedules, events, and notifications.  
 
-![](event.PNG) <!-- .element height="50%" width="50%" -->
-![](eventinfo.PNG) <!-- .element height="50%" width="50%" -->
-![](home.PNG) <!-- .element height="50%" width="50%" -->
-![](infopage.PNG) <!-- .element height="50%" width="50%" -->
-![](schedule.PNG)<!-- .element height="50%" width="50%" -->
+![](event.PNG) {:height="50%" width="50%"}
+![](eventinfo.PNG) {:height="50%" width="50%"}
+![](home.PNG) {:height="50%" width="50%"}
+![](infopage.PNG) {:height="50%" width="50%"}
+![](schedule.PNG) {:height="50%" width="50%"}
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
